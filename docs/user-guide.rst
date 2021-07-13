@@ -207,6 +207,9 @@ The backends available are:
   You need to provide **Sourceforge name** if the name on RSS feed is different then the
   project name on Sourceforge.
 
+* **Sourceforge (git) for projects hosted on
+  `sourceforge.net <https://sourceforge.net>`_
+
 * **Stackage** for projects hosted on
   `www.stackage.org <https://www.stackage.org/>`_
 
